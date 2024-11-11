@@ -21,8 +21,8 @@ Android Studio(Latest Version)
 ## PROGRAM:
 ```
 Program to display animation operation”.
-Developed by: ArunKumar t
-Registeration Number : 212222040017
+Developed by: AKASH B
+Registeration Number : 212222040004
 ```
 
 ## OUTPUT
